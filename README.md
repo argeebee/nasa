@@ -1,9 +1,3 @@
-# html-starter
-A starter package for basic HTML projects
-
-```sh
-cd /var/www
-git clone https://github.com/stack-x/html-starter.git PROJECT-NAME
-cd PROJECT-NAME
-rm -fR .git
-```
+# NASA APOD
+An AJAX Project using JQuery to pull random 
+images from NASA's APOD API
